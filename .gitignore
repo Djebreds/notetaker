@@ -1,0 +1,10 @@
+.build/
+build/
+.swiftpm/
+*.xcodeproj/
+xcuserdata/
+DerivedData/
+bench/output/
+.DS_Store
+bench/samples/
+bench/*.log
